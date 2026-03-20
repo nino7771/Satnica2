@@ -96,7 +96,7 @@ Planned improvements:
 ---
 
 ## 📸 Screenshot
-
+screenshots/app.png
 ---
 
 ## 🚀 How to Run
