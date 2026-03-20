@@ -96,7 +96,9 @@ Planned improvements:
 ---
 
 ## 📸 Screenshot
-screenshots/app.png
+<img width="1366" height="768" alt="Snimak ekrana (5)" src="https://github.com/user-attachments/assets/bb4be874-4f97-45f9-9086-cce96f839681" />
+<img width="1366" height="768" alt="Snimak ekrana (5)" src="https://github.com/user-attachments/assets/bb4be874-4f97-45f9-9086-cce96f839681" />
+
 ---
 
 ## 🚀 How to Run
