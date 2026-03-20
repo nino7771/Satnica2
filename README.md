@@ -96,8 +96,12 @@ Planned improvements:
 ---
 
 ## 📸 Screenshot
+<img width="1366" height="768" alt="Snimak ekrana (1)" src="https://github.com/user-attachments/assets/8787deb4-3f2a-4979-bd27-3feca1f27be9" />
+<img width="1366" height="768" alt="Snimak ekrana (2)" src="https://github.com/user-attachments/assets/74d9869d-a790-47c4-98a4-8469a1372e71" />
+<img width="1366" height="768" alt="Snimak ekrana (3)" src="https://github.com/user-attachments/assets/df31c84e-fcd0-436d-8e70-de477bafa11f" />
+<img width="1366" height="768" alt="Snimak ekrana (4)" src="https://github.com/user-attachments/assets/cbbb05d2-3ad2-47f0-a5fa-9729a11ebc1e" />
 <img width="1366" height="768" alt="Snimak ekrana (5)" src="https://github.com/user-attachments/assets/bb4be874-4f97-45f9-9086-cce96f839681" />
-<img width="1366" height="768" alt="Snimak ekrana (5)" src="https://github.com/user-attachments/assets/bb4be874-4f97-45f9-9086-cce96f839681" />
+
 
 ---
 
